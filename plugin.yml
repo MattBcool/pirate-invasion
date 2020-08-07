@@ -1,0 +1,10 @@
+name: PirateInvasion
+author: TheGamingNinja11
+version: 1.1
+description: Allows for the gamemode Pirate Invasion
+main: com.tgn11.pirateinvasion.Main
+commands:
+    pr:
+        description: Prepares to restart the game.
+    ipr:
+        description: Prepares to restart the game immediately.
