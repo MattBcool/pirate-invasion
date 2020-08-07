@@ -1,5 +1,5 @@
 # Pirate Invasion
-### A pirate invasion minigame plugin developed for Minecraft 1.9
+### A pirate invasion minigame plugin developed for Minecraft 1.8
 
 ### Features:
 * PvP on separate pirate ships
